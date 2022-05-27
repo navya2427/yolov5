@@ -1,0 +1,9 @@
+# train and val data
+train: /mydrive/IMAGE 27.05/train/
+val: /mydrive/IMAGE 27.05/train/val/
+
+# number of classes
+nc: 2
+
+# class names
+names: ['emoji', 'other']
