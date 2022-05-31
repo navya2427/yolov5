@@ -1,0 +1,9 @@
+# train and val data
+train: /mydrive/yolo_model_2000/dataset/images/train/
+val: /mydrive/yolo_model_2000/dataset/images/val/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['emoji']
